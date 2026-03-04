@@ -9,12 +9,20 @@
     {
       "src": "https://i.postimg.cc/SKp7kDMk/Dompetku.jpg",
       "sizes": "192x192",
-      "type": "image/jpg"
+      "type": "image/jpg",
+      "purpose": "any"
     },
     {
       "src": "https://i.postimg.cc/SKp7kDMk/Dompetku.jpg",
       "sizes": "512x512",
-      "type": "image/jpg"
+      "type": "image/jpg",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.postimg.cc/SKp7kDMk/Dompetku.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg",
+      "purpose": "maskable"
     }
   ]
 }
